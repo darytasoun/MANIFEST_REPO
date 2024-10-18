@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nextjs-container
-          image: neathtan/nextjs-adv:5
+          image: daryta/viteproject:0
           ports:
             - containerPort: 3000
